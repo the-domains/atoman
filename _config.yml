@@ -11,6 +11,9 @@ color:
     - '#6B574B'
     - '#160600'
 layout_spectrum: 0.7019938786979765
+author:
+  name: Andrea Porcù
+  email: andrew@atoman.net
 name: ATOMAN
 title: Welcome to ATOMAN dot NET
 description: Andrea Porcu's personal website
