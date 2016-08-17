@@ -1,7 +1,7 @@
 name: ATOMAN
 favicon: null
-layout_spectrum: 0.14474
-typography_spectrum: 0.55471
+layout_spectrum: 1
+typography_spectrum: 0.25811
 author:
   name: Andrea Porcù
   email: andrew@atoman.net
@@ -21,11 +21,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#e8e3d0'
+    - '#000000'
+    - '#b29f91'
+    - '#443635'
+    - '#705c5d'
   brandStrength: 0.5625
   lightness: 0.7282201738562435
   saturation: 0.375
