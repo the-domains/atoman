@@ -1,24 +1,4 @@
-name: ATOMAN
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.25811
-author:
-  name: Andrea Porcù
-  email: andrew@atoman.net
-title: ATOMAN dot NET
-description: Andrea Porcu personal website
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e8e3d0'
@@ -30,4 +10,28 @@ color:
   lightness: 0.7282201738562435
   saturation: 0.375
   rhythmicContrast: 0.2940610114019364
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Andrea Porcù
+  email: andrew@atoman.net
+name: ATOMAN
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: ATTO BAGS
+    url: 'https://www.attobags.com/'
+    type: external
+favicon: null
+title: ATOMAN dot NET
+description: Andrea Porcu personal website
 purpose: []
