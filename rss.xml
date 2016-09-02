@@ -4,7 +4,7 @@
         <description><![CDATA[ATOMAN dot NET]]></description>
         <link>https://thegrid.ai/atoman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 09:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 09:07:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atoman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +40,6 @@
             <link>https://thegrid.ai/atoman/0fa19ad1-9a9a-4cd4-91d3-e8b6c7ac7ed8/index.html</link>
             <guid isPermaLink="false">0fa19ad1-9a9a-4cd4-91d3-e8b6c7ac7ed8</guid>
             <pubDate>Sun, 07 Aug 2016 18:17:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7b00ce0-dbfa-46d7-b78e-472bbd3849e5.jpg">]]></description>
-            <link>https://thegrid.ai/atoman/713e574d-0e14-4947-87e2-01c79d7bbff8/index.html</link>
-            <guid isPermaLink="false">713e574d-0e14-4947-87e2-01c79d7bbff8</guid>
-            <pubDate>Sun, 07 Aug 2016 17:42:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
