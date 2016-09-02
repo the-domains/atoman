@@ -4,21 +4,28 @@
         <description><![CDATA[ATOMAN dot NET]]></description>
         <link>https://thegrid.ai/atoman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 09:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 09:34:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atoman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LA CENTRALE ELETTRICA 1919 - 3D RECONSTRUCTION]]></title>
+            <description><![CDATA[<article><h1>LA CENTRALE ELETTRICA 1919 - 3D RECONSTRUCTION</h1><p>Antonio Sant'Elia was a great Italian architect, writer of architectural futurist manifest (1914). I'm ever be fascinated by his works...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a49ff3dd-1a92-4beb-9684-ebe7a66ce9e8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/atoman/0fa19ad1-9a9a-4cd4-91d3-e8b6c7ac7ed8/index.html</link>
+            <guid isPermaLink="false">0fa19ad1-9a9a-4cd4-91d3-e8b6c7ac7ed8</guid>
+            <pubDate>Wed, 31 Aug 2016 09:34:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RETRO CONCEPT 3D]]></title>
+            <description><![CDATA[<article><h1>RETRO CONCEPT 3D</h1><p>3D Model from an artwork of Fred Lammers aka "Fred" or "Phred" a Norwegian artist and illustrator from Oslo.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fbf9e0c-c01b-43eb-adbc-c1d782e8c4f2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/atoman/retro-concept-3d/index.html</link>
+            <guid isPermaLink="false">1301c6bb-d41d-47aa-9cc4-431ba34f2dc8</guid>
+            <pubDate>Wed, 31 Aug 2016 09:23:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[THE GM FUTURLINER 3D MODEL]]></title>
             <description><![CDATA[<article><h1>THE GM FUTURLINER 3D MODEL</h1><p>Some time ago I've found on the web an history about the restoration of an old '50 GM show truck, called Futurliner...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e64b3c99-156f-4d4f-b5c0-10f203adea5c.jpg"></article>]]></description>
             <link>https://thegrid.ai/atoman/the-gm-futurliner-3d-model/index.html</link>
             <guid isPermaLink="false">0d35b45c-830f-47a2-b29f-d2f3fa9232a8</guid>
             <pubDate>Wed, 31 Aug 2016 09:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LA CENTRALE ELETTRICA 1919 - 3D RECONSTRUCTION]]></title>
-            <description><![CDATA[<article><h1>LA CENTRALE ELETTRICA 1919 - 3D RECONSTRUCTION</h1><p>Antonio Sant'Elia was a great Italian architect, writer of architectural futurist manifest (1914). I'm ever be fascinated by his works...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a49ff3dd-1a92-4beb-9684-ebe7a66ce9e8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/atoman/0fa19ad1-9a9a-4cd4-91d3-e8b6c7ac7ed8/index.html</link>
-            <guid isPermaLink="false">0fa19ad1-9a9a-4cd4-91d3-e8b6c7ac7ed8</guid>
-            <pubDate>Wed, 31 Aug 2016 09:14:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
