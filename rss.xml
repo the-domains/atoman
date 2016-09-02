@@ -4,7 +4,7 @@
         <description><![CDATA[ATOMAN dot NET]]></description>
         <link>https://thegrid.ai/atoman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 09:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 09:15:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atoman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[LA CENTRALE ELETTRICA 1919 - 3D RECONSTRUCTION]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/atoman/bcb28ca0-7ac0-429c-a34a-68e7a99ceb4f/index.html</link>
             <guid isPermaLink="false">bcb28ca0-7ac0-429c-a34a-68e7a99ceb4f</guid>
             <pubDate>Sun, 07 Aug 2016 18:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d21fc381-b703-4e4c-aa5c-d783989da8a5.jpg">]]></description>
-            <link>https://thegrid.ai/atoman/6fbfa8d9-71f3-43f8-9106-05d6c3925a9c/index.html</link>
-            <guid isPermaLink="false">6fbfa8d9-71f3-43f8-9106-05d6c3925a9c</guid>
-            <pubDate>Sun, 07 Aug 2016 18:17:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
