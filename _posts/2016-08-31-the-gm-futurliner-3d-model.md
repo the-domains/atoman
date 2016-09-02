@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-31T09:21:08.379Z'
+datePublished: '2016-08-31T09:34:17.086Z'
 sourcePath: _posts/2016-08-31-the-gm-futurliner-3d-model.md
 author: []
 via: {}
-dateModified: '2016-08-31T09:21:07.931Z'
+dateModified: '2016-08-31T09:34:16.571Z'
 title: THE GM FUTURLINER 3D MODEL
 publisher: {}
 description: >-
