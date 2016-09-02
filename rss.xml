@@ -4,8 +4,15 @@
         <description><![CDATA[ATOMAN dot NET]]></description>
         <link>https://thegrid.ai/atoman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 09:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 09:14:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atoman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LA CENTRALE ELETTRICA 1919 - 3D RECONSTRUCTION]]></title>
+            <description><![CDATA[<article><h1>LA CENTRALE ELETTRICA 1919 - 3D RECONSTRUCTION</h1><p>Antonio Sant'Elia was a great Italian architect, writer of architectural futurist manifest (1914). I'm ever be fascinated by his works...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a49ff3dd-1a92-4beb-9684-ebe7a66ce9e8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/atoman/0fa19ad1-9a9a-4cd4-91d3-e8b6c7ac7ed8/index.html</link>
+            <guid isPermaLink="false">0fa19ad1-9a9a-4cd4-91d3-e8b6c7ac7ed8</guid>
+            <pubDate>Wed, 31 Aug 2016 09:14:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae4b994c-15fe-4493-9eaf-1f4ccd5a8d03.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/atoman/6fbfa8d9-71f3-43f8-9106-05d6c3925a9c/index.html</link>
             <guid isPermaLink="false">6fbfa8d9-71f3-43f8-9106-05d6c3925a9c</guid>
             <pubDate>Sun, 07 Aug 2016 18:17:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a49ff3dd-1a92-4beb-9684-ebe7a66ce9e8.jpg">]]></description>
-            <link>https://thegrid.ai/atoman/0fa19ad1-9a9a-4cd4-91d3-e8b6c7ac7ed8/index.html</link>
-            <guid isPermaLink="false">0fa19ad1-9a9a-4cd4-91d3-e8b6c7ac7ed8</guid>
-            <pubDate>Sun, 07 Aug 2016 18:17:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
