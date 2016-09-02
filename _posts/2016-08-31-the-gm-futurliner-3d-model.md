@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-31T09:34:17.086Z'
+datePublished: '2016-08-31T09:39:07.925Z'
 sourcePath: _posts/2016-08-31-the-gm-futurliner-3d-model.md
 author: []
 via: {}
-dateModified: '2016-08-31T09:34:16.571Z'
+dateModified: '2016-08-31T09:39:07.487Z'
 title: THE GM FUTURLINER 3D MODEL
 publisher: {}
 description: >-
@@ -24,9 +24,3 @@ _type: Article
 Some time ago I've found on the web an history about the restoration of an old '**50 GM show truck**, called Futurliner...
 
 I have been surprised by the shape of this incredible **truck** and I've decided to make a **3D model**. The **blueprint** founded over the net was not good, not enough details for me but a decent starter point at least for proportion. Therefore I've started from the shooting of restoration, this process have asked me a lot of time but a good 3D model of Futurliner was born. I think that some projects need to be shared and the **Futurliner** is one of this.
-
-<article style=""><h1>FUTURLINER C4D</h1><p>3D FREE MODEL</p></article>
-
-<article style=""><h1>FUTURLINER DXF</h1><p>3D FREE MODEL</p></article>
-
-<article style=""><h1>FUTURLINER OBJ</h1><p>3D FREE MODEL</p></article>
